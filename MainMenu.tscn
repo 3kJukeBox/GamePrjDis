@@ -1,0 +1,8 @@
+[gd_scene format=3 uid="uid://mxvqrbog12uh"]
+
+[node name="MainMenu" type="Node2D"]
+
+[node name="TextEdit" type="TextEdit" parent="."]
+offset_right = 1154.0
+offset_bottom = 324.0
+text = "i like black dudes"
